@@ -1,5 +1,5 @@
 # YelpCamp
-##YelpCamp Website,                                                                          San Jose, CA                                  04/2020 - 05/2020
+## YelpCamp Website,                                                                          San Jose, CA                                  04/2020 - 05/2020
 -	Implemented a Yelp style review website for campsites to support users to view campgrounds then register and submit their own or discuss others’
 -	Built frontend with HTML5/CSS3/JavaScript, Bootstrap, EJS template for responsive layout
 -	Built backend with NodeJS, NPM, ExpressJS, REST and authentications using PassportJS to support front end web requests
